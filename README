@@ -1,0 +1,15 @@
+A couple of the Processing for Android projects I have worked on, including a custom camera contoller compatible with
+Android mode, and the beginning work on two games.
+
+> FSCam - A custom camera controller built for Processing. Compatible
+with Android mode (Use 1 finger to orbit, 2 finger pinch to zoom)
+
+> PvZClone - A Plants vs. Zombies clone I began some time ago and have
+paused work on. Needs a major redesign for efficiency and cleaner
+code
+
+> Quicksilver - A concept of a game I was designing. Goal was to touch
+a moving sprite and trace to 2 or more other moving sprites of the same
+kind. Kind of like a fast paced re-imagining  of bejeweled. Doesn't
+work properly since I stopped working on it about 6 months ago. Will
+pick it up again when I have more time.
